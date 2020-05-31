@@ -1,6 +1,4 @@
 # recipes
 
-[] (dolams.md)
-[] (koobideh.md)
-
-[] (dolmas)
+[dolmas] (dolmas.md)
+[koobideh] (koobideh.md)
