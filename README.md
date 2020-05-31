@@ -1,4 +1,5 @@
 # recipes
 
 [dolmas] (dolmas.md)
-[koobideh] (koobideh.md)
+
+[dolmas] (/dolmas.md)
