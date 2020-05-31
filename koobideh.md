@@ -1,5 +1,0 @@
-# ingredients
-- beef
-
-# process
-- yeah
